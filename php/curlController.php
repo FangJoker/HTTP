@@ -1,6 +1,5 @@
 <?php
 
-
 class curlController extends Controller
 {
     
